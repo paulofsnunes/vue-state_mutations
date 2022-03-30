@@ -1,5 +1,7 @@
 # app-vuex
 
+### Estudos com Vuex, utilizando state e mutations
+
 ## Project setup
 ```
 npm install
